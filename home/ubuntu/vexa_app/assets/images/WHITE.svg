@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510.54 177.34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient-7);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-6);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-5);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient-9);
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient-8);
+      }
+
+      .cls-7 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-8 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-9 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-10 {
+        fill: url(#radial-gradient-16);
+      }
+
+      .cls-11 {
+        fill: url(#radial-gradient-12);
+      }
+
+      .cls-12 {
+        fill: url(#radial-gradient-14);
+      }
+
+      .cls-13 {
+        fill: url(#radial-gradient-13);
+      }
+
+      .cls-14 {
+        fill: url(#radial-gradient-10);
+      }
+
+      .cls-15 {
+        fill: url(#radial-gradient-17);
+      }
+
+      .cls-16 {
+        fill: url(#radial-gradient-19);
+      }
+
+      .cls-17 {
+        fill: url(#radial-gradient-11);
+      }
+
+      .cls-18 {
+        fill: url(#radial-gradient-18);
+      }
+
+      .cls-19 {
+        fill: url(#radial-gradient-15);
+      }
+
+      .cls-20 {
+        fill: url(#radial-gradient-48);
+      }
+
+      .cls-21 {
+        fill: url(#radial-gradient-47);
+      }
+
+      .cls-22 {
+        fill: url(#radial-gradient-56);
+      }
+
+      .cls-23 {
+        fill: url(#radial-gradient-58);
+      }
+
+      .cls-24 {
+        fill: url(#radial-gradient-57);
+      }
+
+      .cls-25 {
+        fill: url(#radial-gradient-44);
+      }
+
+      .cls-26 {
+        fill: url(#radial-gradient-43);
+      }
+
+      .cls-27 {
+        fill: url(#radial-gradient-49);
+      }
+
+      .cls-28 {
+        fill: url(#radial-gradient-42);
+      }
+
+      .cls-29 {
+        fill: url(#radial-gradient-40);
+      }
+
+      .cls-30 {
+        fill: url(#radial-gradient-41);
+      }
+
+      .cls-31 {
+        fill: url(#radial-gradient-46);
+      }
+
+      .cls-32 {
+        fill: url(#radial-gradient-45);
+      }
+
+      .cls-33 {
+        fill: url(#radial-gradient-25);
+      }
+
+      .cls-34 {
+        fill: url(#radial-gradient-54);
+      }
+
+      .cls-35 {
+        fill: url(#radial-gradient-59);
+      }
+
+      .cls-36 {
+        fill: url(#radial-gradient-53);
+      }
+
+      .cls-37 {
+        fill: url(#radial-gradient-52);
+      }
+
+      .cls-38 {
+        fill: url(#radial-gradient-51);
+      }
+
+      .cls-39 {
+        fill: url(#radial-gradient-50);
+      }
+
+      .cls-40 {
+        fill: url(#radial-gradient-55);
+      }
+
+      .cls-41 {
+        fill: url(#radial-gradient-35);
+      }
+
+      .cls-42 {
+        fill: url(#radial-gradient-34);
+      }
+
+      .cls-43 {
+        fill: url(#radial-gradient-22);
+      }
+
+      .cls-44 {
+        fill: url(#radial-gradient-28);
+      }
+
+      .cls-45 {
+        fill: url(#radial-gradient-23);
+      }
+
+      .cls-46 {
+        fill: url(#radial-gradient-20);
+      }
+
+      .cls-47 {
+        fill: url(#radial-gradient-24);
+      }
+
+      .cls-48 {
+        fill: url(#radial-gradient-26);
+      }
+
+      .cls-49 {
+        fill: url(#radial-gradient-29);
+      }
+
+      .cls-50 {
+        fill: url(#radial-gradient-27);
+      }
+
+      .cls-51 {
+        fill: url(#radial-gradient-21);
+      }
+
+      .cls-52 {
+        fill: url(#radial-gradient-39);
+      }
+
+      .cls-53 {
+        fill: url(#radial-gradient-38);
+      }
+
+      .cls-54 {
+        fill: url(#radial-gradient-33);
+      }
+
+      .cls-55 {
+        fill: url(#radial-gradient-32);
+      }
+
+      .cls-56 {
+        fill: url(#radial-gradient-31);
+      }
+
+      .cls-57 {
+        fill: url(#radial-gradient-30);
+      }
+
+      .cls-58 {
+        fill: url(#radial-gradient-37);
+      }
+
+      .cls-59 {
+        fill: url(#radial-gradient-36);
+      }
+
+      .cls-60 {
+        fill: url(#radial-gradient-91);
+      }
+
+      .cls-61 {
+        fill: url(#radial-gradient-90);
+      }
+
+      .cls-62 {
+        fill: url(#radial-gradient-62);
+      }
+
+      .cls-63 {
+        fill: url(#radial-gradient-64);
+      }
+
+      .cls-64 {
+        fill: url(#radial-gradient-65);
+      }
+
+      .cls-65 {
+        fill: url(#radial-gradient-63);
+      }
+
+      .cls-66 {
+        fill: url(#radial-gradient-67);
+      }
+
+      .cls-67 {
+        fill: url(#radial-gradient-68);
+      }
+
+      .cls-68 {
+        fill: url(#radial-gradient-69);
+      }
+
+      .cls-69 {
+        fill: url(#radial-gradient-70);
+      }
+
+      .cls-70 {
+        fill: url(#radial-gradient-72);
+      }
+
+      .cls-71 {
+        fill: url(#radial-gradient-75);
+      }
+
+      .cls-72 {
+        fill: url(#radial-gradient-78);
+      }
+
+      .cls-73 {
+        fill: url(#radial-gradient-77);
+      }
+
+      .cls-74 {
+        fill: url(#radial-gradient-79);
+      }
+
+      .cls-75 {
+        fill: url(#radial-gradient-61);
+      }
+
+      .cls-76 {
+        fill: url(#radial-gradient-66);
+      }
+
+      .cls-77 {
+        fill: url(#radial-gradient-60);
+      }
+
+      .cls-78 {
+        fill: url(#radial-gradient-71);
+      }
+
+      .cls-79 {
+        fill: url(#radial-gradient-74);
+      }
+
+      .cls-80 {
+        fill: url(#radial-gradient-73);
+      }
+
+      .cls-81 {
+        fill: url(#radial-gradient-76);
+      }
+
+      .cls-82 {
+        fill: url(#radial-gradient-82);
+      }
+
+      .cls-83 {
+        fill: url(#radial-gradient-85);
+      }
+
+      .cls-84 {
+        fill: url(#radial-gradient-80);
+      }
+
+      .cls-85 {
+        fill: url(#radial-gradient-83);
+      }
+
+      .cls-86 {
+        fill: url(#radial-gradient-86);
+      }
+
+      .cls-87 {
+        fill: url(#radial-gradient-89);
+      }
+
+      .cls-88 {
+        fill: url(#radial-gradient-84);
+      }
+
+      .cls-89 {
+        fill: url(#radial-gradient-87);
+      }
+
+      .cls-90 {
+        fill: url(#radial-gradient-88);
+      }
+
+      .cls-91 {
+        fill: url(#radial-gradient-81);
+      }
+
+      .cls-92 {
+        fill: #0c3ebe;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c3ebe"/>
+      <stop offset=".28" stop-color="#0e40be" stop-opacity=".99"/>
+      <stop offset=".43" stop-color="#1948c1" stop-opacity=".95"/>
+      <stop offset=".55" stop-color="#2a56c6" stop-opacity=".87"/>
+      <stop offset=".65" stop-color="#4369cc" stop-opacity=".77"/>
+      <stop offset=".74" stop-color="#6383d5" stop-opacity=".64"/>
+      <stop offset=".83" stop-color="#8aa2df" stop-opacity=".48"/>
+      <stop offset=".91" stop-color="#b9c7ec" stop-opacity=".29"/>
+      <stop offset=".98" stop-color="#eef1fa" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-4" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-7" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-8" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-9" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-10" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-11" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-12" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-13" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-14" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-15" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-16" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-17" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-18" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-19" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-20" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-21" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-22" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-23" cy="89.21" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-24" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-25" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-26" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-27" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-28" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-29" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-30" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-31" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-32" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-33" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-34" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-35" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-36" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-37" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-38" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-39" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-40" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-41" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-42" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-43" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-44" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-45" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-46" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-47" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-48" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-49" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-50" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-51" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-52" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-53" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-54" cy="89.21" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-55" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-56" cy="89.21" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-57" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-58" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-59" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-60" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-61" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-62" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-63" cx="76.6" cy="89.22" fx="76.6" fy="89.22" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-64" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-65" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-66" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-67" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-68" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-69" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-70" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-71" cx="76.6" fx="76.6" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-72" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-73" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-74" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-75" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-76" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-77" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-78" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-79" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-80" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-81" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-82" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-83" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-84" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-85" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-86" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-87" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-88" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-89" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-90" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-91" cx="76.6" cy="89.21" fx="76.6" fy="89.21" r="97.13" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-92" d="M184.9,65.35h11.33l15.29,40.84c.43,1.21.75,2.53.96,3.96.21,1.43.36,2.75.43,3.96h.21c-.07-1.21.02-2.53.27-3.96.25-1.42.55-2.74.91-3.96l14.97-40.84h11.12l-19.99,53.46h-15.5l-19.99-53.46Z"/>
+        <path class="cls-92" d="M266.69,119.45c-3.92,0-7.66-.55-11.23-1.66-3.57-1.1-6.68-2.8-9.35-5.08-2.67-2.28-4.79-5.13-6.36-8.55-1.57-3.42-2.35-7.45-2.35-12.08s.78-8.66,2.35-12.08c1.57-3.42,3.69-6.27,6.36-8.55,2.67-2.28,5.79-3.97,9.35-5.08,3.56-1.1,7.3-1.66,11.23-1.66s7.61.57,11.06,1.71c3.46,1.14,6.47,2.83,9.03,5.08s4.6,5.08,6.09,8.5c1.5,3.42,2.25,7.45,2.25,12.08v1.55c0,.25-.07.73-.21,1.44h-46.61c.78,5.35,2.85,9.34,6.2,11.97,3.35,2.64,7.48,3.92,12.4,3.85,4.13-.07,7.75-.86,10.85-2.35,3.1-1.5,5.4-4.24,6.9-8.23l9.62,1.28c-1,3.21-2.41,5.95-4.22,8.23-1.82,2.28-3.94,4.12-6.36,5.51-2.42,1.39-5.08,2.42-7.96,3.1-2.89.68-5.9,1.02-9.03,1.02ZM266.9,72.94c-2.35,0-4.7.45-7.06,1.34-2.35.89-4.42,2.25-6.2,4.06-1.78,1.82-3.19,4.12-4.22,6.9-1.03,2.78-1.41,6.06-1.12,9.83.43-1.42.91-2.57,1.44-3.42.53-.86,1.18-1.5,1.92-1.92.75-.43,1.6-.71,2.57-.86.96-.14,2.08-.21,3.37-.21h27.58c-.79-5.49-2.8-9.46-6.04-11.92s-7.32-3.72-12.24-3.79Z"/>
+        <path class="cls-92" d="M292.13,65.35h13.36l13.26,16.79c.36.5.62,1.07.8,1.71.18.64.27,1.28.27,1.92h.21c0-1.42.39-2.64,1.18-3.63l13.15-16.79h13.26l-20.74,26.51,20.74,26.94h-13.15l-13.36-17.21c-.36-.5-.62-1.09-.8-1.76-.18-.68-.27-1.3-.27-1.87h-.21c0,.57-.11,1.19-.32,1.87-.21.68-.5,1.27-.86,1.76l-13.26,17.21h-13.26l20.85-26.94-20.85-26.51Z"/>
+        <path class="cls-92" d="M388.03,105.65c-.71,2.21-1.82,4.13-3.31,5.77-1.5,1.64-3.23,2.99-5.19,4.06-1.96,1.07-4.08,1.87-6.36,2.41-2.28.54-4.56.8-6.84.8-2.64,0-5.2-.32-7.7-.96-2.5-.64-4.7-1.6-6.63-2.89-1.92-1.28-3.47-2.87-4.65-4.76-1.18-1.89-1.76-4.04-1.76-6.47,0-3.92,1.05-6.9,3.15-8.93,2.1-2.03,4.74-3.51,7.91-4.44,3.17-.93,6.59-1.44,10.26-1.55,3.67-.11,7.09-.21,10.26-.32,3.17-.11,5.79-.37,7.86-.8,2.07-.43,3.06-1.39,2.99-2.89-.14-4.06-1.52-6.95-4.12-8.66-2.6-1.71-6.47-2.57-11.6-2.57-2.07,0-4.01.14-5.83.43-1.82.29-3.42.82-4.81,1.6-1.39.79-2.55,1.85-3.47,3.21-.93,1.35-1.53,3.1-1.82,5.24l-9.19-1.28c.36-3.21,1.32-5.95,2.89-8.23,1.57-2.28,3.53-4.12,5.88-5.51,2.35-1.39,4.95-2.39,7.8-2.99,2.85-.6,5.7-.91,8.55-.91,3.21,0,6.36.36,9.46,1.07,3.1.71,5.86,1.87,8.29,3.47,2.42,1.6,4.36,3.74,5.83,6.42,1.46,2.67,2.19,6,2.19,10v19.46c0,1.43.25,2.35.75,2.78.5.43,1.32.64,2.46.64h2.46v9.94h-6.84c-2.71,0-4.86-.82-6.47-2.46-1.6-1.64-2.41-3.63-2.41-5.99v-4.7ZM355.85,103.41c0,1.43.36,2.66,1.07,3.69.71,1.03,1.66,1.89,2.83,2.57,1.18.68,2.57,1.18,4.17,1.5,1.6.32,3.26.48,4.97.48,2.21,0,4.45-.27,6.74-.8,2.28-.54,4.33-1.3,6.15-2.3,1.82-1,3.31-2.23,4.49-3.69,1.18-1.46,1.76-3.12,1.76-4.97v-7.06c-1.5.86-3.35,1.43-5.56,1.71-2.21.29-4.51.46-6.9.53-2.39.07-4.76.14-7.11.21-2.35.07-4.46.36-6.31.86-1.85.5-3.37,1.3-4.54,2.41-1.18,1.11-1.76,2.73-1.76,4.86Z"/>
+      </g>
+      <g>
+        <path class="cls-92" d="M434.21,81.14c-.62-.58-1.37-1.01-2.22-1.28-.86-.27-2.21-.41-4.04-.41h-2.68v12.92h4.12c1.68,0,2.97-.25,3.86-.76.89-.5,1.6-1.25,2.12-2.24.52-.99.78-2.05.78-3.17s-.17-2.1-.5-2.94c-.34-.84-.82-1.55-1.44-2.13ZM434.45,88.31c-.28.66-.68,1.22-1.21,1.68-.53.46-1.14.77-1.84.93s-1.83.23-3.39.23h-1.49v-10.44h.92c1.55,0,2.72.08,3.52.24s1.49.48,2.08.95,1.04,1.06,1.36,1.78c.32.72.48,1.51.48,2.36s-.14,1.61-.41,2.27Z"/>
+        <path class="cls-92" d="M442.92,82.57c-1.39,0-2.55.5-3.49,1.49s-1.41,2.19-1.41,3.58.47,2.58,1.4,3.57c.94.99,2.12,1.49,3.56,1.49,2.02,0,3.54-.96,4.57-2.88l-1.04-.54c-.8,1.52-2.02,2.29-3.64,2.29-.98,0-1.82-.35-2.51-1.05-.69-.7-1.05-1.63-1.09-2.78h8.6c-.04-1.6-.52-2.86-1.47-3.78-.94-.92-2.11-1.39-3.49-1.39ZM439.4,86.68c.55-1.94,1.73-2.92,3.53-2.92.88,0,1.65.26,2.32.77s1.09,1.23,1.26,2.14h-7.11Z"/>
+        <path class="cls-92" d="M459.25,89.83l-1.04-.54c-.8,1.52-2.02,2.29-3.64,2.29-.98,0-1.82-.35-2.51-1.05-.69-.7-1.05-1.63-1.09-2.78h8.6c-.04-1.6-.52-2.86-1.47-3.78-.94-.92-2.11-1.39-3.49-1.39s-2.55.5-3.49,1.49-1.41,2.19-1.41,3.58.47,2.58,1.4,3.57c.94.99,2.12,1.49,3.56,1.49,2.02,0,3.54-.96,4.57-2.88ZM454.63,83.76c.88,0,1.65.26,2.32.77s1.09,1.23,1.26,2.14h-7.11c.55-1.94,1.73-2.92,3.53-2.92Z"/>
+        <path class="cls-92" d="M471.83,87.63c0-1.39-.49-2.58-1.46-3.57-.97-.99-2.13-1.49-3.47-1.49-1.56,0-2.83.67-3.8,2v-1.75h-1.22v13.05h1.22v-5.13c1.09,1.31,2.37,1.96,3.83,1.96,1.34,0,2.5-.5,3.46-1.49s1.44-2.19,1.44-3.58ZM466.8,91.57c-1.04,0-1.93-.38-2.67-1.12s-1.12-1.68-1.12-2.78.36-2.03,1.09-2.78c.73-.75,1.62-1.12,2.69-1.12s1.97.38,2.71,1.14c.74.76,1.11,1.68,1.11,2.75s-.38,2.02-1.12,2.78-1.64,1.14-2.68,1.14Z"/>
+        <path class="cls-92" d="M475.18,79.73c-.31.4-.47,1.01-.47,1.85v1.24h-1.24v1.04h1.24v8.51h1.24v-8.51h2v-1.04h-2v-1.04c0-.53.05-.91.16-1.14.11-.23.34-.35.71-.35s.78.1,1.25.31v-1.21c-.58-.17-1.06-.25-1.44-.25-.66,0-1.15.2-1.46.59Z"/>
+        <path class="cls-92" d="M488.11,90.74v1.64h1.21v-9.56h-1.21v1.75c-.97-1.33-2.24-2-3.8-2-1.36,0-2.52.5-3.49,1.49-.97.99-1.46,2.18-1.46,3.56s.48,2.58,1.45,3.58c.97,1,2.15,1.5,3.56,1.5s2.65-.65,3.74-1.96ZM484.39,91.57c-1.04,0-1.93-.39-2.67-1.16-.74-.77-1.12-1.69-1.12-2.75s.37-1.97,1.1-2.75c.73-.77,1.63-1.16,2.69-1.16s1.96.38,2.69,1.12c.73.75,1.1,1.67,1.1,2.76s-.37,2.06-1.12,2.81c-.74.75-1.64,1.12-2.67,1.12Z"/>
+        <polygon class="cls-92" points="493.15 88.08 497.94 92.38 499.68 92.38 494.12 87.38 499.38 82.82 497.56 82.82 493.15 86.68 493.15 79.13 491.91 79.13 491.91 92.38 493.15 92.38 493.15 88.08"/>
+        <path class="cls-92" d="M505.53,91.57c-.98,0-1.82-.35-2.51-1.05-.69-.7-1.05-1.63-1.09-2.78h8.6c-.04-1.6-.52-2.86-1.47-3.78-.94-.92-2.11-1.39-3.49-1.39s-2.55.5-3.49,1.49-1.41,2.19-1.41,3.58.47,2.58,1.4,3.57c.94.99,2.12,1.49,3.56,1.49,2.02,0,3.54-.96,4.57-2.88l-1.04-.54c-.8,1.52-2.02,2.29-3.64,2.29ZM505.59,83.76c.88,0,1.65.26,2.32.77s1.09,1.23,1.26,2.14h-7.11c.55-1.94,1.73-2.92,3.53-2.92Z"/>
+        <path class="cls-92" d="M434.21,98.14c-.62-.58-1.37-1.01-2.22-1.28-.86-.27-2.21-.41-4.04-.41h-2.68v12.92h4.12c1.68,0,2.97-.25,3.86-.76.89-.5,1.6-1.25,2.12-2.24.52-.99.78-2.05.78-3.17s-.17-2.1-.5-2.94c-.34-.84-.82-1.55-1.44-2.13ZM434.45,105.31c-.28.66-.68,1.22-1.21,1.68-.53.46-1.14.77-1.84.93s-1.83.23-3.39.23h-1.49v-10.44h.92c1.55,0,2.72.08,3.52.24s1.49.48,2.08.95,1.04,1.06,1.36,1.78c.32.72.48,1.51.48,2.36s-.14,1.61-.41,2.27Z"/>
+        <path class="cls-92" d="M446.41,100.96c-.94-.92-2.11-1.39-3.49-1.39s-2.55.5-3.49,1.49-1.41,2.19-1.41,3.58.47,2.58,1.4,3.57c.94.99,2.12,1.49,3.56,1.49,2.02,0,3.54-.96,4.57-2.88l-1.04-.54c-.8,1.52-2.02,2.29-3.64,2.29-.98,0-1.82-.35-2.51-1.05-.69-.7-1.05-1.63-1.09-2.78h8.6c-.04-1.6-.52-2.86-1.47-3.78ZM442.92,100.76c.88,0,1.65.26,2.32.77s1.09,1.23,1.26,2.14h-7.11c.55-1.94,1.73-2.92,3.53-2.92Z"/>
+        <path class="cls-92" d="M452.48,96.13h-1.24v3.69h-1.69v1.04h1.69v7.2c0,.56.13.98.38,1.24s.65.4,1.19.4c.29,0,.68-.04,1.19-.13v-1.04h-.74c-.35,0-.56-.03-.65-.09-.08-.06-.13-.25-.13-.58v-7h1.94v-1.04h-1.94v-3.69Z"/>
+        <path class="cls-92" d="M464.21,100.96c-.94-.92-2.11-1.39-3.49-1.39s-2.55.5-3.49,1.49-1.41,2.19-1.41,3.58.47,2.58,1.4,3.57c.94.99,2.12,1.49,3.56,1.49,2.02,0,3.54-.96,4.57-2.88l-1.04-.54c-.8,1.52-2.02,2.29-3.64,2.29-.98,0-1.82-.35-2.51-1.05-.69-.7-1.05-1.63-1.09-2.78h8.6c-.04-1.6-.52-2.86-1.47-3.78ZM460.73,100.76c.88,0,1.65.26,2.32.77s1.09,1.23,1.26,2.14h-7.11c.55-1.94,1.73-2.92,3.53-2.92Z"/>
+        <path class="cls-92" d="M472.88,100.74c1.46,0,2.62.56,3.46,1.67l.97-.61c-.42-.7-1.02-1.24-1.81-1.64-.79-.4-1.64-.59-2.57-.59-1.57,0-2.86.5-3.86,1.5-1,1-1.5,2.21-1.5,3.61s.5,2.59,1.49,3.56c.99.97,2.22,1.46,3.7,1.46.94,0,1.81-.19,2.62-.56.81-.37,1.46-.91,1.94-1.6l-.97-.65c-.9,1.12-2.05,1.67-3.46,1.67-1.18,0-2.15-.39-2.92-1.17-.77-.78-1.15-1.72-1.15-2.81s.39-2.01,1.17-2.75c.78-.74,1.75-1.11,2.9-1.11Z"/>
+        <path class="cls-92" d="M481.93,96.13h-1.24v3.69h-1.69v1.04h1.69v7.2c0,.56.13.98.38,1.24s.65.4,1.19.4c.29,0,.68-.04,1.19-.13v-1.04h-.74c-.35,0-.56-.03-.65-.09-.08-.06-.13-.25-.13-.58v-7h1.94v-1.04h-1.94v-3.69Z"/>
+        <path class="cls-92" d="M490.24,99.57c-1.39,0-2.56.5-3.53,1.49s-1.45,2.2-1.45,3.6.48,2.57,1.44,3.56c.96.99,2.14,1.49,3.55,1.49s2.58-.5,3.54-1.49,1.43-2.18,1.43-3.57-.48-2.59-1.45-3.58c-.97-1-2.14-1.49-3.53-1.49ZM492.89,107.41c-.73.75-1.61,1.12-2.66,1.12s-1.93-.37-2.64-1.12-1.06-1.65-1.06-2.72.37-1.99,1.1-2.76c.73-.77,1.6-1.16,2.62-1.16s1.89.39,2.63,1.16c.74.77,1.11,1.69,1.11,2.75s-.36,1.98-1.09,2.73Z"/>
+        <path class="cls-92" d="M499.28,99.97c-.32.26-.65.68-.98,1.24v-1.39h-1.26v9.56h1.26v-3.24c0-1.6.08-2.7.23-3.3.16-.61.4-1.1.73-1.48s.68-.58,1.05-.58c.19,0,.38.05.56.16l.65-1.04c-.4-.22-.79-.32-1.18-.32s-.74.13-1.06.4Z"/>
+      </g>
+      <g>
+        <circle class="cls-9" cx="76.98" cy="175.63" r="1.71"/>
+        <circle class="cls-8" cx="92.03" cy="167" r="1.71"/>
+        <circle class="cls-7" cx="107.09" cy="158.29" r="1.71"/>
+        <circle class="cls-4" cx="122.16" cy="149.58" r="1.71"/>
+        <circle class="cls-3" cx="137.22" cy="140.86" r="1.71"/>
+        <circle class="cls-2" cx="152.28" cy="132.15" r="1.71"/>
+        <circle class="cls-1" cx="152.28" cy="114.83" r="1.71"/>
+        <circle class="cls-6" cx="152.28" cy="97.51" r="1.71"/>
+        <circle class="cls-5" cx="152.28" cy="80.2" r="1.71"/>
+        <circle class="cls-14" cx="152.28" cy="62.88" r="1.71"/>
+        <circle class="cls-17" cx="152.28" cy="45.56" r="1.71"/>
+        <circle class="cls-11" cx="137.18" cy="36.55" r="1.71"/>
+        <circle class="cls-13" cx="137.18" cy="54.03" r="1.71"/>
+        <circle class="cls-12" cx="122.2" cy="27.88" r="1.71"/>
+        <circle class="cls-19" cx="122.2" cy="45.17" r="1.71"/>
+        <circle class="cls-10" cx="107.1" cy="19.17" r="1.71"/>
+        <circle class="cls-15" cx="107.1" cy="36.45" r="1.71"/>
+        <circle class="cls-18" cx="107.1" cy="53.72" r="1.71"/>
+        <circle class="cls-16" cx="92.2" cy="10.56" r="1.71"/>
+        <circle class="cls-46" cx="92.2" cy="27.94" r="1.71"/>
+        <circle class="cls-51" cx="92.2" cy="45.32" r="1.71"/>
+        <circle class="cls-43" cx="92.2" cy="62.7" r="1.71"/>
+        <circle class="cls-45" cx="76.98" cy="158.16" r="1.71"/>
+        <circle class="cls-47" cx="92.24" cy="149.47" r="1.71"/>
+        <circle class="cls-33" cx="107.51" cy="140.77" r="1.71"/>
+        <circle class="cls-48" cx="122.09" cy="132.19" r="1.71"/>
+        <circle class="cls-50" cx="137.26" cy="123.44" r="1.71"/>
+        <circle class="cls-44" cx="61.73" cy="149.42" r="1.71"/>
+        <circle class="cls-49" cx="46.49" cy="140.69" r="1.71"/>
+        <circle class="cls-57" cx="31.24" cy="131.95" r="1.71"/>
+        <circle class="cls-56" cx="15.99" cy="123.21" r="1.71"/>
+        <circle class="cls-55" cx="76.98" cy="1.71" r="1.71"/>
+        <circle class="cls-54" cx="62" cy="10.44" r="1.71"/>
+        <circle class="cls-42" cx="62" cy="27.6" r="1.71"/>
+        <circle class="cls-41" cx="62" cy="44.75" r="1.71"/>
+        <circle class="cls-59" cx="62" cy="61.91" r="1.71"/>
+        <circle class="cls-58" cx="47.02" cy="19.17" r="1.71"/>
+        <circle class="cls-53" cx="47.02" cy="36.45" r="1.71"/>
+        <circle class="cls-52" cx="47.02" cy="53.73" r="1.71"/>
+        <circle class="cls-29" cx="32.04" cy="27.9" r="1.71"/>
+        <circle class="cls-30" cx="32.04" cy="45.33" r="1.71"/>
+        <circle class="cls-28" cx="17.06" cy="36.63" r="1.71"/>
+        <circle class="cls-26" cx="17.06" cy="53.83" r="1.71"/>
+        <circle class="cls-25" cx="2.08" cy="45.36" r="1.71"/>
+        <circle class="cls-32" cx="2.08" cy="62.52" r="1.71"/>
+        <circle class="cls-31" cx="2.08" cy="79.69" r="1.71"/>
+        <circle class="cls-21" cx="1.71" cy="97.45" r="1.71"/>
+        <circle class="cls-20" cx="1.71" cy="114.71" r="1.71"/>
+        <circle class="cls-27" cx="1.71" cy="132.08" r="1.71"/>
+        <circle class="cls-39" cx="16.74" cy="140.6" r="1.71"/>
+        <circle class="cls-38" cx="31.8" cy="149.57" r="1.71"/>
+        <circle class="cls-37" cx="46.79" cy="158.2" r="1.71"/>
+        <circle class="cls-36" cx="61.97" cy="166.67" r="1.71"/>
+        <circle class="cls-34" cx="76.98" cy="19" r="1.71"/>
+        <circle class="cls-40" cx="76.98" cy="36.62" r="1.71"/>
+        <circle class="cls-22" cx="76.98" cy="53.94" r="1.71"/>
+        <circle class="cls-24" cx="76.98" cy="71.37" r="1.71"/>
+        <circle class="cls-23" cx="76.98" cy="88.53" r="3.35"/>
+        <circle class="cls-35" cx="76.98" cy="140.59" r="3.35"/>
+        <circle class="cls-77" cx="62.14" cy="132.28" r="3.35"/>
+        <circle class="cls-75" cx="46.92" cy="123.46" r="3.35"/>
+        <circle class="cls-62" cx="31.82" cy="114.64" r="3.35"/>
+        <circle class="cls-65" cx="31.82" cy="62.43" r="3.35"/>
+        <circle class="cls-63" cx="46.81" cy="71.17" r="3.35"/>
+        <circle class="cls-64" cx="61.92" cy="79.91" r="3.35"/>
+        <circle class="cls-76" cx="16.61" cy="105.92" r="3.35"/>
+        <circle class="cls-66" cx="16.61" cy="88.56" r="3.35"/>
+        <circle class="cls-67" cx="16.61" cy="71.07" r="3.35"/>
+        <circle class="cls-68" cx="92.01" cy="132.16" r="3.35"/>
+        <circle class="cls-69" cx="107.04" cy="123.73" r="3.35"/>
+        <circle class="cls-78" cx="122.07" cy="115.31" r="3.35"/>
+        <circle class="cls-70" cx="137.1" cy="106.88" r="3.35"/>
+        <circle class="cls-80" cx="137.1" cy="88.85" r="3.35"/>
+        <circle class="cls-79" cx="137.1" cy="71.25" r="3.35"/>
+        <circle class="cls-71" cx="122.3" cy="62.61" r="3.35"/>
+        <circle class="cls-81" cx="107.14" cy="71.25" r="3.35"/>
+        <circle class="cls-73" cx="91.86" cy="79.94" r="3.35"/>
+        <circle class="cls-72" cx="76.98" cy="105.91" r="5.41"/>
+        <circle class="cls-74" cx="76.98" cy="123.35" r="5.3"/>
+        <circle class="cls-84" cx="61.87" cy="114.74" r="5.3"/>
+        <circle class="cls-91" cx="61.87" cy="97.25" r="5.3"/>
+        <circle class="cls-82" cx="46.75" cy="106.12" r="5.3"/>
+        <circle class="cls-85" cx="46.75" cy="88.63" r="5.3"/>
+        <circle class="cls-88" cx="31.64" cy="97.5" r="5.3"/>
+        <circle class="cls-83" cx="31.64" cy="80.01" r="5.3"/>
+        <circle class="cls-86" cx="91.97" cy="114.86" r="5.3"/>
+        <circle class="cls-89" cx="91.97" cy="97.37" r="5.3"/>
+        <circle class="cls-90" cx="106.95" cy="106.37" r="5.3"/>
+        <circle class="cls-87" cx="106.95" cy="88.51" r="5.3"/>
+        <circle class="cls-61" cx="121.94" cy="97.87" r="5.3"/>
+        <circle class="cls-60" cx="121.94" cy="80.26" r="5.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow # Assuming GPU is not available or needed, otherwise specify tensorflow-gpu
+numpy
+lime
+opencv-python-headless
+scikit-image
